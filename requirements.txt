@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+joblib
+tensorflow
+tabulate
+pyarrow
+streamlit
+streamlit-option-menu
+requests
